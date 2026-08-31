@@ -2,7 +2,6 @@
 (function () {
   var LINKS = [
     { id: "home", label: "Home", path: "index.html" },
-    { id: "ai", label: "AI", path: "ai/index.html" },
     { id: "projects", label: "Projects", path: "projects/index.html" },
   ];
 
