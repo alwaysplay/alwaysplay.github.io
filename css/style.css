@@ -44,3 +44,18 @@ body {
     border-left: 3px solid #143c80;
     background-color: #f0f4fa;
 }
+.speaking_list {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+.speaking_list th,
+.speaking_list td {
+    text-align: left;
+    padding: 8px 12px 8px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+.speaking_list th {
+    color: #666;
+    font-weight: 600;
+}

@@ -3,6 +3,7 @@
   var LINKS = [
     { id: "home", label: "Home", path: "index.html" },
     { id: "projects", label: "Projects", path: "projects/index.html" },
+    { id: "speaking", label: "Speaking", path: "speaking/index.html" },
   ];
 
   var root = document.getElementById("site-nav");
